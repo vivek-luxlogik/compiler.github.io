@@ -1,17 +1,11 @@
 # site settings
-title: Luke
-subtitle: Roche
-email: LukeRocheDev@gmail.com
+title: Compiler
+subtitle: 
+email: contact@compiler.dev
 description: Highly driven, computer scientist<br />
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://compiler.dev # the base hostname & protocol for your site
 author:
-street_address: 
-city: East Brunswick
-state: New Jersey
-zip_code: 08816
-country: United States of America
-phone: (914) 629-7147
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
